@@ -1,0 +1,27 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Mar 30, 2017, 2:41:59 PM
+    Author     : Dungs
+*/
+
+.hbox {
+    -fx-background-size: 60,69;
+    -fx-padding: 18 3 18 6;
+    -fx-background-radius: 5.0; 
+    -fx-border-radius: 10;
+}
+
+.button {
+    //-fx-rotate: 45;
+    -fx-text-alignment: center;
+    -fx-border-radius: 7;
+    -fx-background-radius: 5;
+}
+
+.imageView{
+   -fx-border-radius: 5; 
+}
